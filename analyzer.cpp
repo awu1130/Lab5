@@ -1,9 +1,4 @@
-/*
- * Authored by Adam Cheng and Angelina Wu
- * 11 October 2023
- * COP3504C
- * dzeddy
- */
+// Partner: Adam Cheng
 
 #include "StringData.h"
 #include <iostream>
