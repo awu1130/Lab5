@@ -1,8 +1,5 @@
 /*
- * Authored by Adam Cheng and Angelina Wu
- * 11 October 2023
- * COP3504C
- * dzeddy
+ * Authored by Angelina Wu and Adam Cheng
  */
 
 #include "StringData.h"
